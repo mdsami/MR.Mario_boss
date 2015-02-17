@@ -1,0 +1,30 @@
+{
+  "name": "Mario Boss Beta",
+  "description": "Mario Boss a  funny   game   for  all  age.   play  the  game  have  some  fun ",
+  "version": "1.0",
+  "homepage": "http://www.starryit.com/",
+  "icons": {
+    "32": "/img/icon32.png",
+    "64": "/img/icon64.png",
+    "128": "/img/icon128.png",
+    "256": "/img/icon256.png",
+    "512": "/img/icon512.png"
+  },
+  "developer": {
+    "name": "MD SAMI",
+    "url": "https://mozillians.org/en-US/u/mdsami.diu",
+    "email": "mdsami.diu@gmaill.com"
+  },
+  "licenses": {
+    "type": "MPL",
+    "url": "https://www.mozilla.org/MPL/2.0/"
+  },
+  "launch_path": "/index.html",
+  "chrome": {
+    "navigation": true
+  },
+  "orientation": [
+    "portrait"
+  ],
+  "default_locale": "en"
+}
